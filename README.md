@@ -6,6 +6,6 @@ Wolfenstein 3D Fix Windows 10 1080P and beyond fix
 4. Find and rename dosbox to dosbox.old
 5. Rename ecwolf to dosbox
 6. Select in the pop up menu either Wolfenstein 3D or Spear of Destiny
-7. You are good to play this classic with moder controls and higher resolutions!
+7. You are good to play this classic with modern systems controls and higher resolutions!
 Enjoy
 #gimalaji_blake
