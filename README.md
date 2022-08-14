@@ -9,4 +9,4 @@ Wolfenstein 3D Fix Windows 10 1080P and beyond fix
 6. Select in the pop up menu either Wolfenstein 3D or Spear of Destiny
 7. You are good to play this classic with modern systems controls and higher resolutions!
 Enjoy
-#gimalaji_blake
+#silentgamepls
